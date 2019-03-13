@@ -2,7 +2,7 @@
     "name": "chuyskywalker/phpaes",
     "description": "PHP AES -- Accurate & Fast AES in PHP",
     "type": "library",
-    "keywords": ["aes", "encryption", "mcrypt", "openssl"],
+    "keywords": ["aes", "encryption", "openssl"],
     "homepage": "https://github.com/chuyskywalker/phpaes",
     "authors": [
         {
@@ -14,7 +14,6 @@
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.3.3",
-        "ext-mcrypt": "*",
         "ext-openssl": "*"
     },
     "require-dev": {
